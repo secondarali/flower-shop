@@ -195,7 +195,7 @@ height: 296px;
     display: flex;
     text-align: center;
     padding: 280px 0 140px 280px;
-    background-image: url(/images/Rectangle\ 9.png);
+    background-image: url(/images/rectangle\ 9.png);
     background-repeat: no-repeat;
 }
 .add-email{
@@ -211,7 +211,7 @@ background: #FFF;
 .footer{
     
 }
-.footer-aera{
+.footer-area{
 
 height: 450px;
 background: #111010;
