@@ -94,7 +94,7 @@ margin: auto;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin: 50px 240px;
-    padding: 86px;
+    padding:  86px;
    
 }
 .img-icon{
@@ -134,4 +134,114 @@ line-height: 30px;
     width: 318px;
     height: 420px;
      
+}
+/*header body last*/
+
+.social-heading{
+ color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-top: 100px;
+}
+.social-discription {
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 40px;
+}
+.instagram{
+    text-align: center;
+    margin: 0 400px 20px;
+}
+.show{
+    
+width: 242px;
+height: 296px;
+
+}
+.flower-show{
+    display: flex;
+    gap: 24px;
+    margin: 50px 240px;
+}
+.cotact-area{
+   /* background-image: url('/images/Rectangle\ 9.png');*/
+}
+
+.for-deal{
+    padding: 120px 530px;
+}
+.deal{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.deal-details{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.cotact-form{
+    display: flex;
+    text-align: center;
+    padding: 280px 0 140px 280px;
+    background-image: url(/images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+}
+.add-email{
+width: 700px;
+height: 50px;
+margin-top:10px;
+padding: 3px;
+
+border-radius: 8px;
+background: #FFF;
+}
+/*footer areia*/
+.footer{
+    
+}
+.footer-aera{
+
+height: 450px;
+background: #111010;
+ali: center;
+margin: 0 auto;
+}
+.foot-head{
+color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+padding-top: 120px;
+
+}
+.foot-body{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+ 
+   
+}
+.footer-footer{
+ color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
 }
