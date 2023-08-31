@@ -1,0 +1,137 @@
+
+.section-container{
+    background-color: #E554731A;
+    display: flex;
+    padding: 50px 240px 0;
+    gap: 100px;
+}
+.section-discription{
+    background: #FFF;
+}
+
+.head-container{
+    width: 50%;
+    padding-top: 200px;
+}
+.head-container-two{
+    width: 50%;
+}
+.shop-heading{
+ color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+}
+.shop-detail{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    margin: 20px 0;
+}
+.shop-btn{
+padding: 20px 43px;
+margin: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+header img{
+    width: 535px;
+    height: 700px;
+}
+.flower-aria{
+   
+   margin-top: 100px;
+}
+.flower-title {
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 10px;
+ }
+.flower-discription{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+width: 500px;
+font-weight: 400;
+line-height: 30px; 
+margin: auto;
+}
+.flower-item{
+    display: flex;
+    margin: 48px 240px;
+    gap: 24px;
+}
+.flower-item a{
+    text-align: center;
+}
+.pic-one{
+    width: 310px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.pic-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 310px;
+    height: 428px;
+}
+.pic-three{
+    width: 310px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.sells-detail{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 50px 240px;
+    padding: 86px;
+   
+}
+.img-icon{
+    width: 88px;
+    height: 88px;
+   
+}
+.sells-offer-description{
+    display: flex;
+   gap: 100px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px 300px;
+}
+.sells-offer{
+text-align: center;
+   
+}
+.offer{
+color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.offer-description{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+}
+.show-flower{
+    width: 100%;
+}
+.show-flower img{
+    width: 318px;
+    height: 420px;
+     
+}
